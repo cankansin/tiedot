@@ -12,7 +12,7 @@ import (
 	"strings"
 
 	"github.com/cankansin/tiedot/benchmark"
-	"github.com/cankansin/tiedot/examples"
+	//"github.com/cankansin/tiedot/examples"
 	"github.com/cankansin/tiedot/httpapi"
 	"github.com/cankansin/tiedot/tdlog"
 )
@@ -147,9 +147,9 @@ func main() {
 			os.Exit(1)
 		}
 		httpapi.Start(dir, port, tlsCrt, tlsKey, jwtPubKey, jwtPrivateKey, bind, authToken)
-	case "example":
-		// Run embedded usage examples
-		examples.EmbeddedExample()
+	//case "example":
+	//	// Run embedded usage examples
+	//	examples.EmbeddedExample()
 	case "bench":
 		// Benchmark scenarios
 		benchmark.Benchmark(benchSize, benchCleanup)
