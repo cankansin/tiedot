@@ -14,7 +14,7 @@ import (
 	"time"
 
 	"bou.ke/monkey"
-	"github.com/HouzuoGuo/tiedot/db"
+	"github.com/cankansin/tiedot/db"
 	jwt "github.com/dgrijalva/jwt-go"
 	"github.com/dgrijalva/jwt-go/request"
 	"github.com/pkg/errors"

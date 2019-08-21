@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/HouzuoGuo/tiedot/db"
-	"github.com/HouzuoGuo/tiedot/dberr"
+	"github.com/cankansin/tiedot/db"
+	"github.com/cankansin/tiedot/dberr"
 )
 
 /*

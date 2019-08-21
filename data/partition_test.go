@@ -12,7 +12,7 @@ import (
 	"time"
 
 	"bou.ke/monkey"
-	"github.com/HouzuoGuo/tiedot/dberr"
+	"github.com/cankansin/tiedot/dberr"
 )
 
 func TestPartitionDocCRUD(t *testing.T) {

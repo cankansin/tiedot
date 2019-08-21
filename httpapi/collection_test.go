@@ -9,7 +9,7 @@ import (
 	"testing"
 
 	"bou.ke/monkey"
-	"github.com/HouzuoGuo/tiedot/db"
+	"github.com/cankansin/tiedot/db"
 )
 
 var (

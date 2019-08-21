@@ -11,7 +11,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/HouzuoGuo/tiedot/db"
+	"github.com/cankansin/tiedot/db"
 )
 
 // Run the benchmark function a number of times across multiple goroutines, and print out performance data.

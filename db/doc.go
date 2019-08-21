@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"math/rand"
 
-	"github.com/HouzuoGuo/tiedot/tdlog"
+	"github.com/cankansin/tiedot/tdlog"
 )
 
 // Resolve the attribute(s) in the document structure along the given path.

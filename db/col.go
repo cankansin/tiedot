@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/HouzuoGuo/tiedot/data"
+	"github.com/cankansin/tiedot/data"
 )
 
 const (

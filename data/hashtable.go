@@ -15,7 +15,7 @@ import (
 	"encoding/binary"
 	"sync"
 
-	"github.com/HouzuoGuo/tiedot/tdlog"
+	"github.com/cankansin/tiedot/tdlog"
 )
 
 // Hash table file is a binary file containing buckets of hash entries.

@@ -12,8 +12,8 @@ import (
 	"testing"
 
 	"bou.ke/monkey"
-	"github.com/HouzuoGuo/tiedot/data"
-	"github.com/HouzuoGuo/tiedot/db"
+	"github.com/cankansin/tiedot/data"
+	"github.com/cankansin/tiedot/db"
 )
 
 var (
